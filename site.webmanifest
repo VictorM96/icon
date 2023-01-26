@@ -1,0 +1,46 @@
+ { 
+
+    "name": "CrimeRevue.com",
+    "short_name": "CrimeRevue",
+
+    "icons": 
+[
+
+        {
+
+            "src": "https://lh3.googleusercontent.com/-29WQsyKD2Eg/Y9KtH75xJRI/AAAAAAAAAEc/AWNxQ1yMz4khJYgM7zlMvnsAd-2a2BDtwCNcBGAsYHQ/h120/android-icon-192x192.png",
+
+            "sizes": "192x192",
+
+            "type": "image/png",
+
+            "purpose": "any maskable"
+
+        },
+
+        {
+
+            "src": "https://lh3.googleusercontent.com/-qHdDiGYptRQ/Y9KtICZ7RHI/AAAAAAAAAEg/3mLCvWWlBHoulIkDCxTcYdR5EaAGjM-MACNcBGAsYHQ/h120/android-icon-512x512.png",
+
+            "sizes": "512x512",
+
+            "type": "image/png",
+
+            "purpose": "any maskable"
+
+        
+}
+
+    ],
+
+    "theme_color": "#3291d1",
+
+    "background_color": "#ffffff",
+
+    "display": "standalone",
+
+    "prefer_related_applications": false,
+
+  "start_url": "https://www.CrimeRevue.com"
+
+}
